@@ -5,7 +5,6 @@
 - 📖 Certifications:
 
             -> Data Science Math Skills, Intorduction to HTML 5, Fundamentals in AWS from *COURSERA*
-
             -> Machine Learning with Python Project from *VERZEO*
             -> Hands on Python Programming 
 - 📽 Projects:
