@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning DataScience and Machine learning
 - 📫 mail me : Pavansatya.psk@gmail.com
 - 📖 Certifications:
+
             -> Data Science Math Skills, Intorduction to HTML 5, Fundamentals in AWS from *COURSERA*
 
             -> Machine Learning with Python Project from *VERZEO*
             -> Hands on Python Programming 
 - 📽 Projects:
+- 
             -> Online Book recommendation system using collaborative filtering and associative mining
             -> Detecting whether a person having Diabetes, Digestive and Kidney diseases using machine learning.
             
