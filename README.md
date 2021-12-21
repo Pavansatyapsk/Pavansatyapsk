@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DataScience and Machine learning
 - 📫 mail me : Pavansatya.psk@gmail.com
 - 📖 Certifications:
+
 -> Data Science Math Skills, Introduction to HTML5, Fundamentals in AWS from *COURSERA*
 -> Machine Learning with Python Programming from *VERZEO*
 -> Hands on Python Programming Certification. 
